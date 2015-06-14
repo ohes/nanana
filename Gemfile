@@ -48,4 +48,6 @@ gem 'bootstrap-sass', '~> 3.3.0'
 
 gem 'simple_form'
 
+gem "factory_girl_rails", "~> 4.0"
+
 gem 'autoprefixer-rails'
